@@ -1,4 +1,4 @@
-package main
+package school
 
 var SchoolName = "เตรียมอุดมศึกษา"
 
